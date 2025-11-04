@@ -1,4 +1,3 @@
-# todo-reminder-app
-The To-Do Reminder App is a simple desktop application that helps users manage daily tasks efficiently.
-It allows users to add, edit, delete, search, and prioritize tasks, along with setting reminder times for each task.
-When the reminder time arrives, the app plays a notification sound and shows a desktop notification, ensuring the user never misses an important task.
+The To-Do Reminder App is a desktop productivity tool developed for the Operating Systems Lab. It helps users efficiently manage their daily activities by allowing them to add, edit, delete, search, and prioritize tasks. Each task can be assigned a specific reminder time, after which the application automatically triggers a desktop notification and plays a notification sound, ensuring no task goes unnoticed.
+
+The project is implemented using Python with a Tkinter-based graphical user interface and an SQLite database for secure and efficient task storage. Its clean interface, responsive controls, and real-time alerts make it a practical demonstration of process management, file handling, and system-level interactions in operating system design.
